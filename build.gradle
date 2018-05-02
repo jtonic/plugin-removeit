@@ -22,8 +22,8 @@ intellij {
     // https://www.jetbrains.org/intellij/sdk/docs/basics/getting_started/build_number_ranges.html
 
     // uncomment version and comment out the localPath to fetch the IDE from jetbrains REPO.
-    // version 'IC-173.4548.28'
-    localPath '/Users/antonelpazargic/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/173.4548.28/IntelliJ IDEA CE.app/Contents'
+    version 'IC-173.4548.28'
+    // localPath '/Users/antonelpazargic/Library/Application Support/JetBrains/Toolbox/apps/IDEA-C/ch-0/173.4548.28/IntelliJ IDEA CE.app/Contents'
 }
 
 patchPluginXml {
